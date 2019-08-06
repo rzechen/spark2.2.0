@@ -1,6 +1,12 @@
 # Desc
 install single spark2.2.0
 
+# Pull images
+
+```
+docker pull registry.cn-hangzhou.aliyuncs.com/ranzechen/spark2.2.0:latest
+```
+
 # Run Command
   
 ```
